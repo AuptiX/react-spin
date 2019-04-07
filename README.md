@@ -1,5 +1,9 @@
 # react-spin
 
+## IMPORTANT
+
+This repository was forked as part of AX-1450 to upgrade to react 16. It was forked due to peerDependency react version being too rigid
+
 [![Build Status](https://travis-ci.org/thomasboyt/react-spin.svg?branch=master)](https://travis-ci.org/thomasboyt/react-spin) [![npm](https://img.shields.io/npm/v/react-spin.svg)](https://www.npmjs.com/package/react-spin)
 
 Tiny React wrapper around [spin.js](http://fgnass.github.io/spin.js/).
